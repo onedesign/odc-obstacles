@@ -11,6 +11,7 @@ Install the following:
 ### Install Dependencies
 
 ```
+npm install --global gulp
 npm install
 ```
 
