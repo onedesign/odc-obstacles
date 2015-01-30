@@ -1,0 +1,17 @@
+{
+  "name": "odc-obstacles",
+  "version": "0.0.0",
+  "description": "A simple testing ground for frontend development.",
+  "main": "",
+  "author": "One Design Company",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.6.0",
+    "gulp-load-plugins": "^0.5.0",
+    "gulp-size": "^0.3.0",
+    "gulp-uglify": "~0.3.1",
+    "browser-sync": "^1.1.2",
+    "gulp-util": "~2.2.19",
+  },
+  "dependencies": {}
+}
