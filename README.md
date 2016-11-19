@@ -11,18 +11,23 @@ Install the following:
 ### Install Dependencies
 
 ```
-npm install --global gulp
 npm install
+npm start
 ```
 
 ## Development:
 
 ### Watch
 
-`gulp` kicks off the watch process for development.
+After running the `npm start` visit the following URL in your browser of choice:
 
-While the `gulp` task is running, visit the following URLs in your browser of choice:
+- [http://localhost:1111](http://localhost:1111)
 
-- [http://localhost:3000](http://localhost:3000)
+While at this URL, your browser will automatically refresh any time changes are made to templates, stylesheets, and javascript.
 
-As long as `gulp` is running, BrowserSync will automatically refresh your browser any time changes are made to templates, stylesheets, and scripts.
+### Check your progress
+
+Visit the following URLs during development to see how your current site compares to the original design comps:
+
+- [Desktop](http://localhost:1111/compare/desktop)
+- [Mobile](http://localhost:1111/compare/mobile)
